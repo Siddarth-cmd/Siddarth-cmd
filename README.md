@@ -89,16 +89,6 @@ $ whoami
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Siddarth-cmd&theme=matrix&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 🌳 Featured Projects
 
 ## 🌲 TimberByte
