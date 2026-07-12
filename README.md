@@ -130,6 +130,11 @@ Automatic Irrigation using ESP32
 
 ██████████████████████████████████
 ```
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Siddarth-cmd/Siddarth-cmd/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
