@@ -1,145 +1,165 @@
 <div align="center">
 
-# 🌳 TimberByte
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddarth+N;Computer+Science+Student;Building+Skills+in+DevOps,+Cloud+%26+Automation;Java+•+Linux+•+Docker+•+AWS" />
 
-### Smart Illegal Tree Cutting Detection System
+# 👨‍💻 Siddarth N
 
-Detecting illegal tree cutting in real-time using IoT, GPS and Cloud Technology.
+### Computer Science Student | Building Skills in DevOps, Cloud & Automation
 
-![ESP32](https://img.shields.io/badge/ESP32-IoT-green?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-Realtime-orange?style=for-the-badge)
-![Flutter](https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge)
-![GPS](https://img.shields.io/badge/GPS-Location-success?style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Siddarth-cmd&style=for-the-badge&color=00ff88)
 
 </div>
 
 ---
 
-# 📖 Overview
+# 💻 About Me
 
-TimberByte is an IoT-powered forest monitoring system designed to detect illegal tree cutting in real time.
+```text
+$ whoami
 
-Instead of relying on microphones, TimberByte uses vibration and tilt sensing to identify suspicious activity, retrieves the tree's GPS location, and instantly alerts forest officials through a mobile application.
+👨‍🎓 Computer Science Student
 
----
+🌱 Building Skills in DevOps, Cloud & Automation
 
-# 🚀 Features
+🏆 VISAI 2026 International Project Competition
+🥉 3rd Prize
 
-- 🌳 Real-time tree monitoring
-- 📍 Live GPS coordinates
-- 📱 Instant Flutter notifications
-- 🔥 Firebase cloud integration
-- ⚡ Low power ESP32
-- 🎯 False alarm reduction
-- 🌎 Environmental protection
+🌳 Creator of TimberByte
 
----
-
-# 🏗 System Architecture
-
-```
-          MPU6050
-      (Tilt/Vibration)
-               │
-               │
-           ESP32 MCU
-               │
-     ┌─────────┴─────────┐
-     │                   │
- GPS Module          Firebase
-     │                   │
-     └─────────┬─────────┘
-               │
-          Flutter App
-               │
-      Forest Officials
+📍 India
 ```
 
 ---
 
-# 🛠 Hardware
+# ⚡ Current Focus
 
-- ESP32
-- MPU6050
-- NEO-6M GPS
-- Power Supply
-
----
-
-# 💻 Software
-
-- Flutter
-- Firebase
-- Arduino IDE
-- Git
-- GitHub
+- ☕ Java & DSA
+- 🐧 Linux
+- 🌳 Git & GitHub
+- 🐳 Docker
+- ☸ Kubernetes
+- ☁ AWS
+- ⚙ CI/CD
+- 📚 Open Source
 
 ---
 
-# 📱 Mobile Application
+# 🛠 Tech Stack
 
-The Flutter application provides
+<p align="center">
 
-- Live Alerts
-- GPS Map
-- Tree Status
-- Notification System
+<img src="https://skillicons.dev/icons?i=java,python,c,bash,linux,git,github,docker,kubernetes,aws,mysql,firebase,vscode,arduino"/>
+
+</p>
 
 ---
 
-# 📂 Project Structure
+# 📊 GitHub Analytics
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddarth-cmd&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddarth-cmd&layout=compact&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Siddarth-cmd&theme=chartreuse-dark&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Siddarth-cmd&theme=github-compact"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Siddarth-cmd&theme=matrix&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🌳 Featured Projects
+
+## 🌲 TimberByte
+
+IoT based Illegal Tree Cutting Detection System
+
+**ESP32 • MPU6050 • GPS • Firebase**
+
+🥉 VISAI 2026 - 3rd Prize
+
+---
+
+## ☕ Java DSA
+
+Learning Data Structures & Algorithms in Java
+
+---
+
+## 🌱 Smart Plant Watering System
+
+Automatic Irrigation using ESP32
+
+---
+
+## 🚀 2026 Roadmap
+
+```text
+██████████████████████████████████
+
+☑ Java
+
+☑ DSA
+
+☑ Git
+
+⬜ Linux
+
+⬜ Docker
+
+⬜ Kubernetes
+
+⬜ AWS
+
+⬜ Jenkins
+
+⬜ Terraform
+
+⬜ CI/CD
+
+⬜ DevOps Projects
+
+██████████████████████████████████
 ```
-TimberByte
-│
-├── ESP32 Code
-├── Flutter App
-├── Firebase
-├── Images
-├── Documents
-└── README.md
-```
 
 ---
 
-# 📊 Tech Stack
+# 💬 Quote
 
-| Hardware | Software |
-|----------|----------|
-| ESP32 | Flutter |
-| MPU6050 | Firebase |
-| GPS | Arduino |
-| Sensors | GitHub |
+> **"Turning ideas into reliable systems, one commit at a time."**
 
 ---
 
-# 🏆 Achievement
+<div align="center">
 
-🥉 **3rd Prize**
+### 💚 Thanks for visiting my profile!
 
-VISAI 2026 International Project Competition
-
----
-
-# 🌱 Future Improvements
-
-- AI-based anomaly detection
-- Solar-powered nodes
-- LoRa communication
-- Dashboard for Forest Department
-- Web Portal
-- Cloud Analytics
-
----
-
-# 👨‍💻 Team
-
-- Siddarth N
-- Samrudh B N
-- Samarth S
-
----
-
-# ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
+</div>
