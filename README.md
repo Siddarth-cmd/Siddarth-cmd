@@ -57,14 +57,11 @@ $ whoami
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddarth-cmd&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddarth-cmd&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddarth-cmd&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddarth-cmd&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
