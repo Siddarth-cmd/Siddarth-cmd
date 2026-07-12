@@ -1,71 +1,89 @@
 <div align="center">
 
-# Hi 👋, I'm Siddarth N
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=00FF88&center=true&vCenter=true&random=false&width=900&lines=Hi+👋,+I'm+Siddarth+N;Computer+Science+Student;Building+Skills+in+DevOps,+Cloud+%26+Automation;Java+•+Linux+•+Docker+•+AWS" />
 
-### Computer Science Student • IoT Developer • Flutter Enthusiast • AI Explorer
+# 👨‍💻 Siddarth N
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Flutter+Developer;IoT+Enthusiast;Java+%7C+Python+Developer;Always+Learning+Something+New" />
+### Computer Science Student | Building Skills in DevOps, Cloud & Automation
+
+<img src="https://komarev.com/ghpvc/?username=Siddarth-cmd&label=Profile+Views&color=00ff88&style=flat-square" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Computer Science Student
+```bash
+Name        : Siddarth N
+Education   : Computer Science Student
+Country     : India 🇮🇳
+Focus        : DevOps • Cloud • Automation
+Current Goal : Become a DevOps Engineer
+```
 
-💡 Passionate about AI, IoT and Mobile Development
-
-🌱 Currently Learning
-- Java
-- DSA
-- Flutter
-- Firebase
-- Machine Learning
-
-🏆 Achievements
-- 🥉 VISAI 2026 International Project Competition – 3rd Prize
-- 💻 Building real-world IoT Projects
+- 🌱 Currently learning **Java, DSA, Linux & DevOps**
+- 🏆 **VISAI 2026 International Project Competition - 3rd Prize**
+- 🌳 Creator of **TimberByte**
+- ⚡ Love building IoT and Cloud-powered applications
+- 📚 Always learning something new
 
 ---
 
-## 🛠 Tech Stack
+# 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,dart,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,bash,linux,docker,git,github,aws,mysql,firebase,vscode,arduino"/>
+
 </p>
 
-### Frameworks & Tools
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode,arduino" />
-</p>
+# 📈 Current Learning
+
+| Technology | Progress |
+|------------|----------|
+| Java | █████████░ 90% |
+| DSA | ████████░░ 80% |
+| Linux | ███████░░░ 70% |
+| Git | ██████████ 95% |
+| Docker | ███░░░░░░░ 30% |
+| Kubernetes | ██░░░░░░░░ 20% |
+| AWS | ██░░░░░░░░ 20% |
+| CI/CD | █░░░░░░░░░ 10% |
 
 ---
 
 # 🌳 Featured Projects
 
-## TimberByte
-Smart Illegal Tree Cutting Detection System using ESP32 + MPU6050 + GPS + Firebase + Flutter.
+## 🌲 TimberByte
 
-## Smart Plant Watering System
-Automatic irrigation system using soil moisture sensor and ESP32.
+Smart Illegal Tree Cutting Detection System
 
-## DSA in Java
-Data Structures & Algorithms implementation in Java.
+**ESP32 • MPU6050 • GPS • Firebase • Flutter**
 
-## Flutter Apps
-Beautiful Mobile Applications using Flutter & Firebase.
+🥉 VISAI 2026 3rd Prize
 
 ---
 
-# 📊 GitHub Stats
+## 🌱 Smart Plant Watering
+
+Automatic irrigation using ESP32 & Soil Moisture Sensor
+
+---
+
+## ☕ Java DSA
+
+Learning Data Structures & Algorithms in Java
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddarth-cmd&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Siddarth-cmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddarth-cmd&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -73,7 +91,7 @@ Beautiful Mobile Applications using Flutter & Firebase.
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -83,17 +101,7 @@ Beautiful Mobile Applications using Flutter & Firebase.
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Siddarth-cmd&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -103,24 +111,36 @@ Beautiful Mobile Applications using Flutter & Firebase.
 
 ---
 
-## 🌐 Connect with Me
+# 🏆 GitHub Trophies
 
-<p>
+<p align="center">
 
-<a href="https://github.com/Siddarth-cmd">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<!-- Add your LinkedIn here -->
+<img src="https://github-profile-trophy.vercel.app/?username=Siddarth-cmd&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10"/>
 
 </p>
 
 ---
 
+# 🎯 2026 Goals
+
+- ✅ Master Java
+- 🔄 Learn Docker
+- 🔄 Learn Kubernetes
+- 🔄 Learn AWS
+- 🔄 Build CI/CD Pipelines
+- 🔄 Master Linux
+- 🔄 Build Open Source Projects
+
+---
+
+# 💬 Quote
+
+> **"Build. Break. Learn. Repeat."**
+
+---
+
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
-
-<img src="https://komarev.com/ghpvc/?username=Siddarth-cmd&label=Profile+Views&color=0e75b6&style=flat"/>
+### ⭐ Thanks for visiting my profile!
 
 </div>
