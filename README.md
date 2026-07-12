@@ -2,7 +2,8 @@
 
 <p align="center">
   <img src="./banner.png" width="100%">
-</p>font=JetBrains+Mono&weight=700&size=34&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Siddarth+N;Computer+Science+Student;Building+Skills+in+DevOps,+Cloud+%26+Automation;Java+•+Linux+•+Docker+•+AWS" />
+</p>
+
 
 # 👨‍💻 Siddarth N
 
